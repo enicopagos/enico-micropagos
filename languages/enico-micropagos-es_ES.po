@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Énico Plugin\n"
+"POT-Creation-Date: 2021-04-29 22:17-0300\n"
+"PO-Revision-Date: 2021-04-29 22:17-0300\n"
+"Last-Translator: \n"
+"Language-Team: Énico\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;translate_nooped_plural\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: .git\n"
+"X-Poedit-SearchPathExcluded-2: src\n"
+"X-Poedit-SearchPathExcluded-3: .gitignore\n"
+"X-Poedit-SearchPathExcluded-4: webpack.config.js\n"
+"X-Poedit-SearchPathExcluded-5: tailwind.config.js\n"
+"X-Poedit-SearchPathExcluded-6: postcss.config.js\n"
+"X-Poedit-SearchPathExcluded-7: package.json\n"
+"X-Poedit-SearchPathExcluded-8: package-lock.json\n"
+"X-Poedit-SearchPathExcluded-9: LICENSE.txt\n"
+
+#: admin/class-enico-micropagos-admin.php:214
+msgid "Post not found"
+msgstr "No se encontró el artículo"
+
+#: admin/class-enico-micropagos-admin.php:219
+msgid "Price is not defined."
+msgstr "El precio no está definido."
+
+#: admin/class-enico-micropagos-admin.php:227
+msgid "Price must be greater than the minimum stablished"
+msgstr "El precio debe ser mayor al mínimo establecido"
+
+#: admin/class-enico-micropagos-admin.php:233
+msgid "Invalid email"
+msgstr "El correo electrónico no es válido"
+
+#: admin/class-enico-micropagos-admin.php:253
+msgid "Post"
+msgstr "Artículo"
+
+#: admin/class-enico-micropagos-admin.php:294
+msgid "Unexpected error."
+msgstr "Error inesperado."
+
+#: admin/class-enico-micropagos-admin.php:423
+msgid "The post is yours!"
+msgstr "¡El artículo es tuyo!"
+
+#: admin/class-enico-micropagos-admin.php:553
+#: admin/class-enico-micropagos-admin.php:554
+#: admin/class-enico-micropagos-admin.php:598
+msgid "Énico Micropagos"
+msgstr "Énico Micropagos"
+
+#: admin/class-enico-micropagos-admin.php:716
+msgid "Settings"
+msgstr "Opciones"
+
+#: admin/partials/enico-micropagos-admin-display.php:22
+msgid "Mercado Pago Options"
+msgstr "Opciones de MercadoPago"
+
+#: admin/partials/enico-micropagos-admin-display.php:26
+msgid "Country"
+msgstr "País"
+
+#: admin/partials/enico-micropagos-admin-display.php:29
+msgid "Choose"
+msgstr "Elegir"
+
+#: admin/partials/enico-micropagos-admin-display.php:38
+msgid "Choose the country where your MercadoPago account was created"
+msgstr "Elija el país donde fue creada su cuenta de MercadoPago"
+
+#: admin/partials/enico-micropagos-admin-display.php:43
+msgid "MercadoPago token"
+msgstr "Token de MercadoPago"
+
+#: admin/partials/enico-micropagos-admin-display.php:46
+msgid ""
+"This token allows to create payment links. Get this token at MercadoPago."
+msgstr ""
+"Este token te permite crear links de pago. El token se obtiene en "
+"MercadoPago."
+
+#: admin/partials/enico-micropagos-admin-display.php:51
+msgid "MercadoPago Sandbox"
+msgstr "MercadoPago Sandbox"
+
+#: admin/partials/enico-micropagos-admin-display.php:53
+msgid "Sandbox Mercado Pago mode"
+msgstr "Modo Sandbox de MercadoPago"
+
+#: admin/partials/enico-micropagos-admin-display.php:59
+msgid "General options"
+msgstr "Opciones  generales"
+
+#: admin/partials/enico-micropagos-admin-display.php:63
+msgid "Reader invitation"
+msgstr "Invitación al lector"
+
+#: admin/partials/enico-micropagos-admin-display.php:66
+msgid "Write a text to call your readers attention to buy the post."
+msgstr "Escribe un texto que invite al lector a comprar el artículo."
+
+#: admin/partials/enico-micropagos-admin-display.php:71
+msgid "Text for the price"
+msgstr "Texto para el precio"
+
+#: admin/partials/enico-micropagos-admin-display.php:74
+msgid "Write a text that would be read next to the price"
+msgstr "Escribe un texto que se mostará junto al precio"
+
+#: admin/partials/enico-micropagos-admin-display.php:79
+msgid "Default price"
+msgstr "Precio por defecto"
+
+#: admin/partials/enico-micropagos-admin-display.php:82
+msgid "Default post price. You can customize the price on each post."
+msgstr "Precio del artículo por defecto. Podes cambiar el precio por artículo."
+
+#: admin/partials/enico-micropagos-admin-display.php:88
+msgid "Mail options"
+msgstr "Opciones de correo electrónico"
+
+#: admin/partials/enico-micropagos-admin-display.php:92
+msgid "Email subject"
+msgstr "Asunto del correo electrónico"
+
+#: admin/partials/enico-micropagos-admin-display.php:99
+msgid "Email body text"
+msgstr "Texto del correo electrónico"
+
+#: admin/partials/enico-micropagos-admin-display.php:103
+msgid "The website name"
+msgstr "Nombre del sitio web"
+
+#: admin/partials/enico-micropagos-admin-display.php:104
+msgid "The post title"
+msgstr "Título del artículo"
+
+#: admin/partials/enico-micropagos-admin-display.php:105
+msgid "Recovering post link"
+msgstr "Enlace de activación del artículo"
+
+#: admin/partials/post-metabox.php:3
+msgid "Activate payment"
+msgstr "Activar pago"
+
+#: admin/partials/post-metabox.php:9
+msgid "Minimum price"
+msgstr "Precio mínimo"
+
+#: admin/partials/post-metabox.php:14
+msgid "Price"
+msgstr "Precio"
+
+#: admin/partials/post-metabox.php:15
+msgid "Leave empty for the default price"
+msgstr "Deje el precio en blanco para obtener el precio por defecto"
+
+#: includes/class-enico-micropagos-activator.php:52
+msgid "¡El artículo es tuyo!"
+msgstr ""
+
+#: public/class-enico-micropagos-public.php:154
+msgid "Post not found."
+msgstr "No se encontró el artículo."
+
+#: public/class-enico-micropagos-public.php:240
+msgid "Buy"
+msgstr "Comprar"
+
+#: public/class-enico-micropagos-public.php:244
+#, php-format
+msgid "%d%% of the post remains to be read."
+msgstr "Queda por leer el %d%% del artículo."

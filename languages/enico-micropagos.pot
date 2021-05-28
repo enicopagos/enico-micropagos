@@ -1,0 +1,173 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Énico Micropagos\n"
+"POT-Creation-Date: 2021-05-25 21:20-0300\n"
+"PO-Revision-Date: 2019-09-20 12:05-0500\n"
+"Last-Translator: Arnan de Gans <support@ajdg.solutions>\n"
+"Language-Team: Énico\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-enico-micropagos-admin.php:214
+msgid "Post not found"
+msgstr ""
+
+#: admin/class-enico-micropagos-admin.php:219
+msgid "Price is not defined."
+msgstr ""
+
+#: admin/class-enico-micropagos-admin.php:227
+msgid "Price must be greater than the minimum stablished"
+msgstr ""
+
+#: admin/class-enico-micropagos-admin.php:233
+msgid "Invalid email"
+msgstr ""
+
+#: admin/class-enico-micropagos-admin.php:253
+msgid "Post"
+msgstr ""
+
+#: admin/class-enico-micropagos-admin.php:294
+msgid "Unexpected error."
+msgstr ""
+
+#: admin/class-enico-micropagos-admin.php:423
+msgid "The post is yours!"
+msgstr ""
+
+#: admin/class-enico-micropagos-admin.php:553
+#: admin/class-enico-micropagos-admin.php:554
+#: admin/class-enico-micropagos-admin.php:598
+msgid "Énico Micropagos"
+msgstr ""
+
+#: admin/class-enico-micropagos-admin.php:688
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:22
+msgid "Mercado Pago Options"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:26
+msgid "Country"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:29
+msgid "Choose"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:38
+msgid "Choose the country where your MercadoPago account was created"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:43
+msgid "MercadoPago token"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:46
+msgid "This token allows to create payment links. Get this token at MercadoPago."
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:51
+msgid "MercadoPago Sandbox"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:53
+msgid "Sandbox Mercado Pago mode"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:59
+msgid "General options"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:63
+msgid "Reader invitation"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:66
+msgid "Write a text to call your readers attention to buy the post."
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:71
+msgid "Text for the price"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:74
+msgid "Write a text that would be read next to the price"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:79
+msgid "Default price"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:82
+msgid "Default post price. You can customize the price on each post."
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:88
+msgid "Mail options"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:92
+msgid "Email subject"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:99
+msgid "Email body text"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:103
+msgid "The website name"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:104
+msgid "The post title"
+msgstr ""
+
+#: admin/partials/enico-micropagos-admin-display.php:105
+msgid "Recovering post link"
+msgstr ""
+
+#: admin/partials/post-metabox.php:3
+msgid "Activate payment"
+msgstr ""
+
+#: admin/partials/post-metabox.php:9
+msgid "Minimum price"
+msgstr ""
+
+#: admin/partials/post-metabox.php:14
+msgid "Price"
+msgstr ""
+
+#: admin/partials/post-metabox.php:15
+msgid "Leave empty for the default price"
+msgstr ""
+
+#: includes/class-enico-micropagos-activator.php:52
+msgid "¡El artículo es tuyo!"
+msgstr ""
+
+#: public/class-enico-micropagos-public.php:154
+msgid "Post not found."
+msgstr ""
+
+#: public/class-enico-micropagos-public.php:240
+msgid "Buy"
+msgstr ""
+
+#: public/class-enico-micropagos-public.php:244
+#, php-format
+msgid "%d%% of the post remains to be read."
+msgstr ""
