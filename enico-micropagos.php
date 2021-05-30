@@ -16,7 +16,7 @@
  * Plugin Name:       Énico Micropagos
  * Plugin URI:        https://github.com/enicopagos/enico-micropagos
  * Description:       Énico es un sistema de micropagos para contenidos de tu sitio web. A través de un muro de pago (paywall), permite monetizar piezas de contenido de forma individual. Está asociado a Mercado Pago.
- * Version:           1.5.2
+ * Version:           1.5.3
  * Author:            Énico
  * Author URI:        https://enico.info
  * License:           GPL-2.0+
@@ -35,7 +35,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 1.5.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'ENICO_MICROPAY_VERSION', '1.5.2' );
+define( 'ENICO_MICROPAY_VERSION', '1.5.3' );
 
 /**
  * The code that runs during plugin activation.
