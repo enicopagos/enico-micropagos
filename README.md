@@ -1,4 +1,4 @@
-# Versión >1.5.1 (WordPress)
+# Versión WordPress (1.5.3)
 
 Esta versión es la que se encuentra en el repositorio de plugins de WordPress y se recomienda para aquellos usuarios que instalan por primera vez el plugin de Énico.
 
