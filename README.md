@@ -1,3 +1,7 @@
+# Versión >1.5.1 (WordPress)
+
+Esta versión es la que se encuentra en el repositorio de plugins de WordPress y se recomienda para aquellos usuarios que instalan por primera vez el plugin de Énico.
+
 ## Énico, paywall para contenido único
 
 Énico es un sistema de micropagos fácil de usar que permite comprar y vender contenido en internet mediante transacciones únicas. El muro de pago bloquea artículos individuales, permitiendo su pago a través de MercadoPago. Funciona en todos los países en los que existe MercadoPago/MercadoLibre.
@@ -32,6 +36,10 @@ En el post en el que se quiera agregar un paywall, se debe activar y completar e
 - Puede presentar conflictos con plugins de cache, tipo WP Super Cache
 
 ## Changelog
+
+### v1.5.3
+* Se renombraron variables, funciones, archivos y carpetas para coincidir con el repositorio de WordPress
+
 ### v1.5.2
 * Corrección de cadenas de traducción
 
