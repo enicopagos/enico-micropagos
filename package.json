@@ -1,6 +1,6 @@
 {
   "name": "enico-micropagos",
-  "version": "1.5.2",
+  "version": "1.5.4",
   "description": "WordPress Plugin oficial de Enico.info",
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack",
