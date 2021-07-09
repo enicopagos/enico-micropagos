@@ -5,7 +5,7 @@ Tags: paywall, content
 Requires at least: 4.7
 Tested up to: 5.7
 Requires PHP: 7.0
-Stable tag: 1.5.3
+Stable tag: 1.5.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,6 +41,13 @@ En el post en el que se quiera agregar un paywall, se debe activar y completar e
 - Puede presentar conflictos con plugins de cache, tipo WP Super Cache
 
 ==Changelog==
+
+===v1.5.4===
+* Se agrega la opción "Zona de cuidados" que permite migrar de las versiones v1.1 y v1.2 a la versión oficial de WordPress
+
+===v1.5.3===
+* Se renombraron variables, funciones, archivos y carpetas para coincidir con el repositorio de WordPress
+
 ===v1.5.2===
 * Corrección de cadenas de traducción
 
